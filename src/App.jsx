@@ -34,11 +34,11 @@ function App () {
         <ExponentFour count={count} />
         <ExponentFive count={count} />
         <ExponentSix count={count} /> */}
-        <Exponent count={count} exponent={2}/>
-        <Exponent count={count} exponent={3}/>
-        <Exponent count={count} exponent={4}/>
-        <Exponent count={count} exponent={5}/>
-        <Exponent count={count} exponent={6}/>
+        <Exponent count={count} exponent={2} />
+        <Exponent count={count} exponent={3} />
+        <Exponent count={count} exponent={4} />
+        <Exponent count={count} exponent={5} />
+        <Exponent count={count} exponent={6} />
       </div>
     </div>
   );
